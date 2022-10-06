@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.e779cba7.css","mappings":"AACA,KAGE,wBAAmC,CADnC,UAAW,CAEX,qBAAuB,CAHvB,cAIF","sources":["index.css"],"sourcesContent":["\n.box{\n  font-size: 2rem;\n  color:white;\n  background-color: rgb(139, 89, 186);\n  font-family: Helvetica ;\n}"],"names":[],"sourceRoot":""}

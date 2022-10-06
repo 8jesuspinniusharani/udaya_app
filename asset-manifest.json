@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/udaya_app/static/css/main.e779cba7.css",
+    "main.js": "/udaya_app/static/js/main.ad6ce708.js",
+    "index.html": "/udaya_app/index.html",
+    "main.e779cba7.css.map": "/udaya_app/static/css/main.e779cba7.css.map",
+    "main.ad6ce708.js.map": "/udaya_app/static/js/main.ad6ce708.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e779cba7.css",
+    "static/js/main.ad6ce708.js"
+  ]
+}
